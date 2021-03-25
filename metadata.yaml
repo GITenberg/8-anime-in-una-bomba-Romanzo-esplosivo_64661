@@ -1,5 +1,8 @@
 _repo: 8-anime-in-una-bomba-Romanzo-esplosivo_64661
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64661-h/images/cover.jpg
 creator:
   author:
     agent_name: Marinetti, F. T.
@@ -12,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
     - http://it.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64661#8-anime-in-una-bomba-Romanzo-esplosivo
 gutenberg_issued: '2021-03-01'
 gutenberg_type: Text
 identifiers:
